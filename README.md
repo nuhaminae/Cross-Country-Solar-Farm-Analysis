@@ -59,5 +59,9 @@ The dataset consists of **solar radiation measurements, weather conditions, wind
     git clone https://github.com/nuhaminae/Cross-Country-Solar-Farm-Analysis.git
 2. Launch Jupyter Notebook:
     jupyter notebook
-3. Open the notebooks in the `notebooks/` directory and follow the instructions within the
+3. Open the notebooks in the `EDA-notebooks/` directory and `compare_countries.ipynb` notebook directory and and follow the steps within the notebooks 
 
+
+## Contributing
+
+Contributions are welcome! Please open issues or submit pull requests for improvements, additional analyses, or bug fixes.
