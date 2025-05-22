@@ -5,10 +5,9 @@ import matplotlib.pyplot as plt
 
 #set page title
 st.set_page_config(page_title='Country Solar Farm Data Analysis Dashboard')
-st.title('Country Solar Farm Data Analysis')
+st.title('Cross Country Solar Farm Data Analysis')
 
 df = pd.read_csv('C:/Users/nuhamin/Documents/kifiya/week 0/Cross-Country-Solar-Farm-Analysis/data/All_Countries_df.csv', header=[0, 1])
-#df = pd.read_csv('/content/All_Countries_df.csv', header=[0, 1])
 
 #widget to select country 
 st.sidebar.header('Select a Country')
